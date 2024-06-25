@@ -1,0 +1,855 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:ns="http://example.org/"
+   xmlns:obo="http://purl.obolibrary.org/obo/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://example.org/78aadf08-27f9-444f-a9f6-d7a7f0ebf627">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <dcterms:source rdf:resource="http://example.org/8c5ab775-1b04-408d-b384-7b9257bcd190"/>
+    <ns:ann_finest_level>Lymphatic EC differentiating</ns:ann_finest_level>
+    <ns:ann_level_3>Lymphatic EC differentiating</ns:ann_level_3>
+    <obo:RO_0015003 rdf:resource="http://example.org/37904333-ff34-40bd-ae5f-90189bbe4dfe"/>
+    <rdfs:label>Lymphatic EC differentiating</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/13d6df6e-2dfa-454b-99d0-1a034b76d7a2">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <dcterms:source rdf:resource="http://example.org/8c5ab775-1b04-408d-b384-7b9257bcd190"/>
+    <ns:ann_finest_level>Plasma cells</ns:ann_finest_level>
+    <ns:ann_level_4>Plasma cells</ns:ann_level_4>
+    <ns:cell_type>plasma cell</ns:cell_type>
+    <obo:RO_0015003 rdf:resource="http://example.org/774253d6-c2ae-4678-a564-936f3fbf18bc"/>
+    <rdfs:label>Plasma cells</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/5b184c46-c2e4-4ed7-bf25-16d7270ff289">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <dcterms:source rdf:resource="http://example.org/8c5ab775-1b04-408d-b384-7b9257bcd190"/>
+    <ns:ann_level_3>Monocytes</ns:ann_level_3>
+    <obo:RO_0015003 rdf:resource="http://example.org/33f75137-1576-4fea-8e14-4078bc1aa205"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/c1bdd39b-b756-40f1-8123-8c86cb6a8655"/>
+    <rdfs:label>Monocytes</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/0b5b51fb-1cb5-4f71-87cd-e2e0d682c7a2">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <dcterms:source rdf:resource="http://example.org/8c5ab775-1b04-408d-b384-7b9257bcd190"/>
+    <ns:ann_finest_level>Monocyte-derived Mph</ns:ann_finest_level>
+    <ns:ann_level_5>Monocyte-derived Mph</ns:ann_level_5>
+    <ns:cell_type>elicited macrophage</ns:cell_type>
+    <obo:RO_0015003 rdf:resource="http://example.org/e03cbd70-eeed-488a-81dc-fc9f6b8dcd35"/>
+    <rdfs:label>Monocyte-derived Mph</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/4b2ae5c4-ab27-43c6-b827-3de2e859ce82">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <dcterms:source rdf:resource="http://example.org/8c5ab775-1b04-408d-b384-7b9257bcd190"/>
+    <ns:ann_finest_level>Mast cells</ns:ann_finest_level>
+    <ns:ann_level_3>Mast cells</ns:ann_level_3>
+    <ns:cell_type>mast cell</ns:cell_type>
+    <obo:RO_0015003 rdf:resource="http://example.org/33f75137-1576-4fea-8e14-4078bc1aa205"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/a5a1d5ea-e8d8-45c7-8c40-b3a8f6fd65b3"/>
+    <rdfs:label>Mast cells</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/84ef9981-d97d-458d-ab2f-8600a7f77d83">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <dcterms:source rdf:resource="http://example.org/8c5ab775-1b04-408d-b384-7b9257bcd190"/>
+    <ns:ann_level_2>Airway epithelium</ns:ann_level_2>
+    <obo:RO_0015003 rdf:resource="http://example.org/4db76ae6-32a1-410f-8978-cabc18012135"/>
+    <rdfs:label>Airway epithelium</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/c5932a15-3aa7-4c89-8e89-e72e7a5fcf12">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <dcterms:source rdf:resource="http://example.org/8c5ab775-1b04-408d-b384-7b9257bcd190"/>
+    <ns:ann_finest_level>SMG duct</ns:ann_finest_level>
+    <ns:ann_level_4>SMG duct</ns:ann_level_4>
+    <ns:cell_type>acinar cell</ns:cell_type>
+    <obo:RO_0015003 rdf:resource="http://example.org/0fa32166-4e58-4a31-b953-59a5e7d7a9a5"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/c1bdd39b-b756-40f1-8123-8c86cb6a8655"/>
+    <rdfs:label>SMG duct</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/8ca6b3f3-3206-4765-81e6-409ce5c64dfa">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <dcterms:source rdf:resource="http://example.org/8c5ab775-1b04-408d-b384-7b9257bcd190"/>
+    <ns:ann_finest_level>DC1</ns:ann_finest_level>
+    <ns:ann_level_4>DC1</ns:ann_level_4>
+    <ns:cell_type>conventional dendritic cell</ns:cell_type>
+    <obo:RO_0015003 rdf:resource="http://example.org/3e788ed7-5bda-4aa6-b0d5-a64c16c5e0a9"/>
+    <rdfs:label>DC1</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/509268e7-023d-450a-b2f6-f79bf585cdad">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <dcterms:source rdf:resource="http://example.org/8c5ab775-1b04-408d-b384-7b9257bcd190"/>
+    <ns:ann_finest_level>Classical monocytes</ns:ann_finest_level>
+    <ns:ann_level_4>Classical monocytes</ns:ann_level_4>
+    <ns:cell_type>classical monocyte</ns:cell_type>
+    <obo:RO_0015003 rdf:resource="http://example.org/5b184c46-c2e4-4ed7-bf25-16d7270ff289"/>
+    <rdfs:label>Classical monocytes</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/2ed710e1-52ad-4e35-ad41-5235f6f0c735">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <dcterms:source rdf:resource="http://example.org/8c5ab775-1b04-408d-b384-7b9257bcd190"/>
+    <ns:ann_finest_level>SMG mucous</ns:ann_finest_level>
+    <ns:ann_level_4>SMG mucous</ns:ann_level_4>
+    <ns:cell_type>mucus secreting cell</ns:cell_type>
+    <obo:RO_0015003 rdf:resource="http://example.org/0fa32166-4e58-4a31-b953-59a5e7d7a9a5"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/c1bdd39b-b756-40f1-8123-8c86cb6a8655"/>
+    <rdfs:label>SMG mucous</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/0259f8a6-e8b4-41cc-a8b3-b5985fdca3dc">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <dcterms:source rdf:resource="http://example.org/8c5ab775-1b04-408d-b384-7b9257bcd190"/>
+    <ns:ann_finest_level>Migratory DCs</ns:ann_finest_level>
+    <ns:ann_level_4>Migratory DCs</ns:ann_level_4>
+    <ns:cell_type>dendritic cell</ns:cell_type>
+    <obo:RO_0015003 rdf:resource="http://example.org/3e788ed7-5bda-4aa6-b0d5-a64c16c5e0a9"/>
+    <rdfs:label>Migratory DCs</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/e03cbd70-eeed-488a-81dc-fc9f6b8dcd35">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <dcterms:source rdf:resource="http://example.org/8c5ab775-1b04-408d-b384-7b9257bcd190"/>
+    <ns:ann_level_4>Interstitial macrophages</ns:ann_level_4>
+    <obo:RO_0015003 rdf:resource="http://example.org/afd95064-5bd1-4925-b430-d4e2497d5029"/>
+    <rdfs:label>Interstitial macrophages</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/542941fd-fd3c-473a-b246-a9e05614224e">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <dcterms:source rdf:resource="http://example.org/8c5ab775-1b04-408d-b384-7b9257bcd190"/>
+    <ns:ann_level_4>Multiciliated</ns:ann_level_4>
+    <obo:RO_0015003 rdf:resource="http://example.org/7893c9e1-081a-4462-8741-0db99d35459b"/>
+    <rdfs:label>Multiciliated</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/34c24748-5025-4388-9751-8ef30714da99">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <dcterms:source rdf:resource="http://example.org/8c5ab775-1b04-408d-b384-7b9257bcd190"/>
+    <ns:ann_finest_level>EC arterial</ns:ann_finest_level>
+    <ns:ann_level_3>EC arterial</ns:ann_level_3>
+    <ns:cell_type>pulmonary artery endothelial cell</ns:cell_type>
+    <obo:RO_0015003 rdf:resource="http://example.org/ec567f46-76a0-4789-8042-d5565ae0ac1a"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/a5a1d5ea-e8d8-45c7-8c40-b3a8f6fd65b3"/>
+    <rdfs:label>EC arterial</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/eaec8f6f-74e6-4220-8525-a9d399ad3907">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <dcterms:source rdf:resource="http://example.org/8c5ab775-1b04-408d-b384-7b9257bcd190"/>
+    <ns:ann_finest_level>Hematopoietic stem cells</ns:ann_finest_level>
+    <ns:ann_level_2>Hematopoietic stem cells</ns:ann_level_2>
+    <ns:cell_type>hematopoietic stem cell</ns:cell_type>
+    <obo:RO_0015003 rdf:resource="http://example.org/309e4046-5a29-41a5-aaa6-7cee7dc51dc5"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/2a27e53d-c912-43d8-9154-229dbdea49a7"/>
+    <rdfs:label>Hematopoietic stem cells</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/cb77f3b5-6f06-488c-9e8b-041583620b29">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <dcterms:source rdf:resource="http://example.org/8c5ab775-1b04-408d-b384-7b9257bcd190"/>
+    <ns:ann_finest_level>SMG serous (nasal)</ns:ann_finest_level>
+    <ns:ann_level_5>SMG serous (nasal)</ns:ann_level_5>
+    <ns:cell_type>serous secreting cell</ns:cell_type>
+    <obo:RO_0015003 rdf:resource="http://example.org/0a71c3b9-a999-4acb-9e7e-5ec5d956dcb7"/>
+    <rdfs:label>SMG serous (nasal)</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/814372b0-0069-4490-8ad2-002167d8d2fd">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <dcterms:source rdf:resource="http://example.org/8c5ab775-1b04-408d-b384-7b9257bcd190"/>
+    <ns:ann_finest_level>AT2 proliferating</ns:ann_finest_level>
+    <ns:ann_level_4>AT2 proliferating</ns:ann_level_4>
+    <obo:RO_0015003 rdf:resource="http://example.org/b74a7ee3-fb90-4857-8856-c2c62a8256a9"/>
+    <rdfs:label>AT2 proliferating</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ae9eb1f3-6c37-4a0c-94c5-619f09d18f13">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <dcterms:source rdf:resource="http://example.org/8c5ab775-1b04-408d-b384-7b9257bcd190"/>
+    <ns:ann_level_1>Endothelial</ns:ann_level_1>
+    <obo:RO_0015003 rdf:resource="http://example.org/c1bdd39b-b756-40f1-8123-8c86cb6a8655"/>
+    <rdfs:label>Endothelial</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/739275b9-47e7-4e58-844b-c88d16974917">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <dcterms:source rdf:resource="http://example.org/8c5ab775-1b04-408d-b384-7b9257bcd190"/>
+    <ns:ann_finest_level>Peribronchial fibroblasts</ns:ann_finest_level>
+    <ns:ann_level_4>Peribronchial fibroblasts</ns:ann_level_4>
+    <ns:cell_type>bronchus fibroblast of lung</ns:cell_type>
+    <obo:RO_0015003 rdf:resource="http://example.org/5477d086-9505-47f0-b5cf-ccc292cae9a0"/>
+    <rdfs:label>Peribronchial fibroblasts</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/0a71c3b9-a999-4acb-9e7e-5ec5d956dcb7">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <dcterms:source rdf:resource="http://example.org/8c5ab775-1b04-408d-b384-7b9257bcd190"/>
+    <ns:ann_level_4>SMG serous</ns:ann_level_4>
+    <obo:RO_0015003 rdf:resource="http://example.org/0fa32166-4e58-4a31-b953-59a5e7d7a9a5"/>
+    <rdfs:label>SMG serous</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/2ac1cf20-1aa9-435c-92ea-a0e4a38c8ceb">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <dcterms:source rdf:resource="http://example.org/8c5ab775-1b04-408d-b384-7b9257bcd190"/>
+    <ns:ann_finest_level>Neuroendocrine</ns:ann_finest_level>
+    <ns:ann_level_4>Neuroendocrine</ns:ann_level_4>
+    <ns:cell_type>lung neuroendocrine cell</ns:cell_type>
+    <obo:RO_0015003 rdf:resource="http://example.org/6b651fd9-82b2-4013-999f-d6a1d03d3872"/>
+    <rdfs:label>Neuroendocrine</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/e36da937-341e-4640-a90f-a8937c82ca1a">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <dcterms:source rdf:resource="http://example.org/8c5ab775-1b04-408d-b384-7b9257bcd190"/>
+    <ns:ann_finest_level>Deuterosomal</ns:ann_finest_level>
+    <ns:ann_level_4>Deuterosomal</ns:ann_level_4>
+    <obo:RO_0015003 rdf:resource="http://example.org/c1bdd39b-b756-40f1-8123-8c86cb6a8655"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/3d74e68d-6c22-4d8c-bdd3-8d851ccce28f"/>
+    <rdfs:label>Deuterosomal</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/3d74e68d-6c22-4d8c-bdd3-8d851ccce28f">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <dcterms:source rdf:resource="http://example.org/8c5ab775-1b04-408d-b384-7b9257bcd190"/>
+    <ns:cell_type>multi-ciliated epithelial cell</ns:cell_type>
+    <obo:RO_0015003 rdf:resource="http://example.org/7893c9e1-081a-4462-8741-0db99d35459b"/>
+    <rdfs:label>multi-ciliated epithelial cell</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/8c1df945-c99c-4cfa-a66a-30dbd2a29002">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <dcterms:source rdf:resource="http://example.org/8c5ab775-1b04-408d-b384-7b9257bcd190"/>
+    <ns:ann_finest_level>Lymphatic EC proliferating</ns:ann_finest_level>
+    <ns:ann_level_3>Lymphatic EC proliferating</ns:ann_level_3>
+    <obo:RO_0015003 rdf:resource="http://example.org/37904333-ff34-40bd-ae5f-90189bbe4dfe"/>
+    <rdfs:label>Lymphatic EC proliferating</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/079d8b30-49fd-444c-8ce9-10668c153e6f">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <dcterms:source rdf:resource="http://example.org/8c5ab775-1b04-408d-b384-7b9257bcd190"/>
+    <ns:ann_finest_level>Multiciliated (nasal)</ns:ann_finest_level>
+    <ns:ann_level_5>Multiciliated (nasal)</ns:ann_level_5>
+    <obo:RO_0015003 rdf:resource="http://example.org/542941fd-fd3c-473a-b246-a9e05614224e"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/3d74e68d-6c22-4d8c-bdd3-8d851ccce28f"/>
+    <rdfs:label>Multiciliated (nasal)</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/43b29613-cdae-482c-9cdd-e06571bda648">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <dcterms:source rdf:resource="http://example.org/8c5ab775-1b04-408d-b384-7b9257bcd190"/>
+    <ns:ann_finest_level>Alveolar Mph CCL3+</ns:ann_finest_level>
+    <ns:ann_level_5>Alveolar Mph CCL3+</ns:ann_level_5>
+    <obo:RO_0015003 rdf:resource="http://example.org/192a6675-a652-448b-87d3-3f87c7e5d1aa"/>
+    <rdfs:label>Alveolar Mph CCL3+</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/504c761e-591a-4f03-8ce7-9816df6ace2d">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <dcterms:source rdf:resource="http://example.org/8c5ab775-1b04-408d-b384-7b9257bcd190"/>
+    <ns:ann_finest_level>Alveolar fibroblasts</ns:ann_finest_level>
+    <ns:ann_level_4>Alveolar fibroblasts</ns:ann_level_4>
+    <ns:cell_type>alveolar type 1 fibroblast cell</ns:cell_type>
+    <obo:RO_0015003 rdf:resource="http://example.org/5477d086-9505-47f0-b5cf-ccc292cae9a0"/>
+    <rdfs:label>Alveolar fibroblasts</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/e98147e2-4c32-4c1f-a8fe-daa214b9fac3">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <dcterms:source rdf:resource="http://example.org/8c5ab775-1b04-408d-b384-7b9257bcd190"/>
+    <ns:ann_finest_level>Lymphatic EC mature</ns:ann_finest_level>
+    <ns:ann_level_3>Lymphatic EC mature</ns:ann_level_3>
+    <obo:RO_0015003 rdf:resource="http://example.org/37904333-ff34-40bd-ae5f-90189bbe4dfe"/>
+    <rdfs:label>Lymphatic EC mature</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/f4c59367-06dd-4ce9-8241-676b1bf4b5cd">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <dcterms:source rdf:resource="http://example.org/8c5ab775-1b04-408d-b384-7b9257bcd190"/>
+    <ns:ann_finest_level>EC general capillary</ns:ann_finest_level>
+    <ns:ann_level_4>EC general capillary</ns:ann_level_4>
+    <obo:RO_0015003 rdf:resource="http://example.org/f45dc326-db71-4493-b96b-49c7dae4b3fe"/>
+    <rdfs:label>EC general capillary</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/4d309b6f-9419-4597-acf7-338a93b44281">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <dcterms:source rdf:resource="http://example.org/8c5ab775-1b04-408d-b384-7b9257bcd190"/>
+    <ns:ann_finest_level>NK cells</ns:ann_finest_level>
+    <ns:ann_level_3>Innate lymphoid cell NK</ns:ann_level_3>
+    <ns:ann_level_4>NK cells</ns:ann_level_4>
+    <ns:cell_type>natural killer cell</ns:cell_type>
+    <obo:RO_0015003 rdf:resource="http://example.org/36f5222e-b2c1-48b4-9092-ba7ec0104681"/>
+    <rdfs:label>NK cells</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/b74a7ee3-fb90-4857-8856-c2c62a8256a9">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <dcterms:source rdf:resource="http://example.org/8c5ab775-1b04-408d-b384-7b9257bcd190"/>
+    <ns:ann_level_3>AT2</ns:ann_level_3>
+    <ns:cell_type>type II pneumocyte</ns:cell_type>
+    <obo:RO_0015003 rdf:resource="http://example.org/34d888e7-afa6-4dcb-ad8e-97fbfc4195fc"/>
+    <rdfs:label>AT2</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/33f75137-1576-4fea-8e14-4078bc1aa205">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <dcterms:source rdf:resource="http://example.org/8c5ab775-1b04-408d-b384-7b9257bcd190"/>
+    <ns:ann_level_2>Myeloid</ns:ann_level_2>
+    <obo:RO_0015003 rdf:resource="http://example.org/309e4046-5a29-41a5-aaa6-7cee7dc51dc5"/>
+    <rdfs:label>Myeloid</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/41231c2d-5b4a-46d6-950a-b419b78adf06">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <dcterms:source rdf:resource="http://example.org/8c5ab775-1b04-408d-b384-7b9257bcd190"/>
+    <ns:ann_finest_level>Goblet (nasal)</ns:ann_finest_level>
+    <ns:ann_level_5>Goblet (nasal)</ns:ann_level_5>
+    <ns:cell_type>nasal mucosa goblet cell</ns:cell_type>
+    <obo:RO_0015003 rdf:resource="http://example.org/959837a4-dd0a-4ed2-9c52-6673311c6836"/>
+    <rdfs:label>Goblet (nasal)</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/d04abd2d-bed0-4de9-8db6-22bce799f862">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <dcterms:source rdf:resource="http://example.org/8c5ab775-1b04-408d-b384-7b9257bcd190"/>
+    <ns:ann_finest_level>B cells</ns:ann_finest_level>
+    <ns:ann_level_4>B cells</ns:ann_level_4>
+    <ns:cell_type>B cell</ns:cell_type>
+    <obo:RO_0015003 rdf:resource="http://example.org/774253d6-c2ae-4678-a564-936f3fbf18bc"/>
+    <rdfs:label>B cells</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ab52e05f-43df-4842-b2da-97b9faad2ee7">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <dcterms:source rdf:resource="http://example.org/8c5ab775-1b04-408d-b384-7b9257bcd190"/>
+    <ns:ann_finest_level>Interstitial Mph perivascular</ns:ann_finest_level>
+    <ns:ann_level_5>Interstitial Mph perivascular</ns:ann_level_5>
+    <ns:cell_type>lung macrophage</ns:cell_type>
+    <obo:RO_0015003 rdf:resource="http://example.org/e03cbd70-eeed-488a-81dc-fc9f6b8dcd35"/>
+    <rdfs:label>Interstitial Mph perivascular</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/65b24e0e-2601-4e4d-afc7-d46ab12e1f8f">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <dcterms:source rdf:resource="http://example.org/8c5ab775-1b04-408d-b384-7b9257bcd190"/>
+    <ns:ann_finest_level>EC aerocyte capillary</ns:ann_finest_level>
+    <ns:ann_level_4>EC aerocyte capillary</ns:ann_level_4>
+    <obo:RO_0015003 rdf:resource="http://example.org/f45dc326-db71-4493-b96b-49c7dae4b3fe"/>
+    <rdfs:label>EC aerocyte capillary</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/0047586a-a213-4c7f-8829-52a6c3d805aa">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <dcterms:source rdf:resource="http://example.org/8c5ab775-1b04-408d-b384-7b9257bcd190"/>
+    <ns:ann_finest_level>Ionocyte</ns:ann_finest_level>
+    <ns:ann_level_4>Ionocyte</ns:ann_level_4>
+    <ns:cell_type>ionocyte</ns:cell_type>
+    <obo:RO_0015003 rdf:resource="http://example.org/6b651fd9-82b2-4013-999f-d6a1d03d3872"/>
+    <rdfs:label>Ionocyte</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/e7e98eb6-2fe8-46a2-81ba-070cf9ab5db2">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <dcterms:source rdf:resource="http://example.org/8c5ab775-1b04-408d-b384-7b9257bcd190"/>
+    <ns:ann_finest_level>SM activated stress response</ns:ann_finest_level>
+    <ns:ann_level_3>SM activated stress response</ns:ann_level_3>
+    <ns:cell_type>smooth muscle cell</ns:cell_type>
+    <obo:RO_0015003 rdf:resource="http://example.org/ce25feed-1788-4a0b-ad35-c1ad7690bf9a"/>
+    <rdfs:label>SM activated stress response</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/83bfa6b3-3bad-419b-8e13-1766de42d960">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <dcterms:source rdf:resource="http://example.org/8c5ab775-1b04-408d-b384-7b9257bcd190"/>
+    <ns:ann_finest_level>pre-TB secretory</ns:ann_finest_level>
+    <ns:ann_level_5>pre-TB secretory</ns:ann_level_5>
+    <ns:cell_type>epithelial cell of lower respiratory tract</ns:cell_type>
+    <obo:RO_0015003 rdf:resource="http://example.org/5afbbfb0-91f9-4942-a709-da49a4ed22c2"/>
+    <rdfs:label>pre-TB secretory</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/b8a90d23-4285-40fe-b204-5f3ffb448b0e">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <dcterms:source rdf:resource="http://example.org/8c5ab775-1b04-408d-b384-7b9257bcd190"/>
+    <ns:ann_finest_level>CD8 T cells</ns:ann_finest_level>
+    <ns:ann_level_4>CD8 T cells</ns:ann_level_4>
+    <ns:cell_type>CD8-positive, alpha-beta T cell</ns:cell_type>
+    <obo:RO_0015003 rdf:resource="http://example.org/126dc07c-f1fd-4d9a-b0f7-73e9a857e9ad"/>
+    <rdfs:label>CD8 T cells</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/32bfbc57-90a3-4507-9713-dec996e6e8c5">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <dcterms:source rdf:resource="http://example.org/8c5ab775-1b04-408d-b384-7b9257bcd190"/>
+    <ns:cell_type>respiratory basal cell</ns:cell_type>
+    <obo:RO_0015003 rdf:resource="http://example.org/f903ad95-5038-469e-891f-9cff26216127"/>
+    <rdfs:label>respiratory basal cell</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/2a27e53d-c912-43d8-9154-229dbdea49a7">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <dcterms:source rdf:resource="http://example.org/8c5ab775-1b04-408d-b384-7b9257bcd190"/>
+    <ns:ann_level_3>None</ns:ann_level_3>
+    <obo:RO_0015003 rdf:resource="http://example.org/a5a1d5ea-e8d8-45c7-8c40-b3a8f6fd65b3"/>
+    <rdfs:label>None</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/774253d6-c2ae-4678-a564-936f3fbf18bc">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <dcterms:source rdf:resource="http://example.org/8c5ab775-1b04-408d-b384-7b9257bcd190"/>
+    <ns:ann_level_3>B cell lineage</ns:ann_level_3>
+    <obo:RO_0015003 rdf:resource="http://example.org/36f5222e-b2c1-48b4-9092-ba7ec0104681"/>
+    <rdfs:label>B cell lineage</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/afd95064-5bd1-4925-b430-d4e2497d5029">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <dcterms:source rdf:resource="http://example.org/8c5ab775-1b04-408d-b384-7b9257bcd190"/>
+    <ns:ann_level_3>Macrophages</ns:ann_level_3>
+    <obo:RO_0015003 rdf:resource="http://example.org/33f75137-1576-4fea-8e14-4078bc1aa205"/>
+    <rdfs:label>Macrophages</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/1966c06f-e948-4cbe-8ba3-bb53af859bd2">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <dcterms:source rdf:resource="http://example.org/8c5ab775-1b04-408d-b384-7b9257bcd190"/>
+    <ns:ann_finest_level>AT2</ns:ann_finest_level>
+    <obo:RO_0015003 rdf:resource="http://example.org/b74a7ee3-fb90-4857-8856-c2c62a8256a9"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/a5a1d5ea-e8d8-45c7-8c40-b3a8f6fd65b3"/>
+    <rdfs:label>AT2</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/4db76ae6-32a1-410f-8978-cabc18012135">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <dcterms:source rdf:resource="http://example.org/8c5ab775-1b04-408d-b384-7b9257bcd190"/>
+    <ns:ann_level_1>Epithelial</ns:ann_level_1>
+    <rdfs:label>Epithelial</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/106f6519-cea3-4068-bc2d-364d09f35d2d">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <dcterms:source rdf:resource="http://example.org/8c5ab775-1b04-408d-b384-7b9257bcd190"/>
+    <ns:ann_finest_level>Subpleural fibroblasts</ns:ann_finest_level>
+    <ns:ann_level_4>Subpleural fibroblasts</ns:ann_level_4>
+    <ns:cell_type>fibroblast</ns:cell_type>
+    <obo:RO_0015003 rdf:resource="http://example.org/5477d086-9505-47f0-b5cf-ccc292cae9a0"/>
+    <rdfs:label>Subpleural fibroblasts</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/b0da9381-fbf9-44a6-ac4b-3e7aaa88aa6b">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <dcterms:source rdf:resource="http://example.org/8c5ab775-1b04-408d-b384-7b9257bcd190"/>
+    <ns:ann_level_4>Club</ns:ann_level_4>
+    <ns:cell_type>club cell</ns:cell_type>
+    <obo:RO_0015003 rdf:resource="http://example.org/25f53875-1aaa-4dd1-96ea-7042a41024bb"/>
+    <rdfs:label>Club</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/496e14f2-f02c-46eb-9d03-aab9c891aedf">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <dcterms:source rdf:resource="http://example.org/8c5ab775-1b04-408d-b384-7b9257bcd190"/>
+    <ns:ann_finest_level>Adventitial fibroblasts</ns:ann_finest_level>
+    <ns:ann_level_4>Adventitial fibroblasts</ns:ann_level_4>
+    <ns:cell_type>alveolar type 2 fibroblast cell</ns:cell_type>
+    <obo:RO_0015003 rdf:resource="http://example.org/5477d086-9505-47f0-b5cf-ccc292cae9a0"/>
+    <rdfs:label>Adventitial fibroblasts</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/7f2914f1-9592-43b1-bbbb-c37118a4968e">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <dcterms:source rdf:resource="http://example.org/8c5ab775-1b04-408d-b384-7b9257bcd190"/>
+    <ns:ann_finest_level>SMG serous (bronchial)</ns:ann_finest_level>
+    <ns:ann_level_5>SMG serous (bronchial)</ns:ann_level_5>
+    <ns:cell_type>tracheobronchial serous cell</ns:cell_type>
+    <obo:RO_0015003 rdf:resource="http://example.org/0a71c3b9-a999-4acb-9e7e-5ec5d956dcb7"/>
+    <rdfs:label>SMG serous (bronchial)</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/192a6675-a652-448b-87d3-3f87c7e5d1aa">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <dcterms:source rdf:resource="http://example.org/8c5ab775-1b04-408d-b384-7b9257bcd190"/>
+    <ns:ann_level_4>Alveolar macrophages</ns:ann_level_4>
+    <ns:cell_type>alveolar macrophage</ns:cell_type>
+    <obo:RO_0015003 rdf:resource="http://example.org/afd95064-5bd1-4925-b430-d4e2497d5029"/>
+    <rdfs:label>Alveolar macrophages</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/6b8d21cb-64c5-4909-957f-b2159a0381c2">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <dcterms:source rdf:resource="http://example.org/8c5ab775-1b04-408d-b384-7b9257bcd190"/>
+    <ns:ann_finest_level>AT1</ns:ann_finest_level>
+    <ns:ann_level_3>AT1</ns:ann_level_3>
+    <ns:cell_type>type I pneumocyte</ns:cell_type>
+    <obo:RO_0015003 rdf:resource="http://example.org/34d888e7-afa6-4dcb-ad8e-97fbfc4195fc"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/a5a1d5ea-e8d8-45c7-8c40-b3a8f6fd65b3"/>
+    <rdfs:label>AT1</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/8c5ab775-1b04-408d-b384-7b9257bcd190">
+    <rdf:type rdf:resource="https://schema.org/Dataset"/>
+    <rdfs:label>dataset</rdfs:label>
+    <ns:publication>https://doi.org/10.1038/s41591-023-02327-2</ns:publication>
+    <ns:download_link>https://datasets.cellxgene.cziscience.com/b53b3bcd-3485-4562-a543-e473dfef3b27.h5ad</ns:download_link>
+    <ns:collection>https://cellxgene.cziscience.com/collections/6f6d381a-7701-4781-935c-db10d30de293</ns:collection>
+    <ns:citation>Publication: https://doi.org/10.1038/s41591-023-02327-2 Dataset Version: https://datasets.cellxgene.cziscience.com/b53b3bcd-3485-4562-a543-e473dfef3b27.h5ad curated and distributed by CZ CELLxGENE Discover in Collection: https://cellxgene.cziscience.com/collections/6f6d381a-7701-4781-935c-db10d30de293</ns:citation>
+    <ns:default_embedding>X_umap</ns:default_embedding>
+    <ns:schema_reference>https://github.com/chanzuckerberg/single-cell-curation/blob/main/schema/5.1.0/schema.md</ns:schema_reference>
+    <ns:schema_version>5.1.0</ns:schema_version>
+    <ns:title>An integrated cell atlas of the human lung in health and disease (core)</ns:title>
+    <ns:obs_meta>[[{"field_name": "ann_finest_level", "field_type": "author_cell_type_label"}], [{"field_name": "ann_level_1", "field_type": "author_cell_type_label"}], [{"field_name": "ann_level_2", "field_type": "author_cell_type_label"}], [{"field_name": "ann_level_3", "field_type": "author_cell_type_label"}], [{"field_name": "ann_level_4", "field_type": "author_cell_type_label"}], [{"field_name": "ann_level_5", "field_type": "author_cell_type_label"}]]</ns:obs_meta>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/3a51a3f9-491b-4155-b494-c02fe6eeeb35">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <dcterms:source rdf:resource="http://example.org/8c5ab775-1b04-408d-b384-7b9257bcd190"/>
+    <ns:ann_finest_level>AT0</ns:ann_finest_level>
+    <ns:ann_level_5>AT0</ns:ann_level_5>
+    <ns:cell_type>epithelial cell of alveolus of lung</ns:cell_type>
+    <obo:RO_0015003 rdf:resource="http://example.org/5afbbfb0-91f9-4942-a709-da49a4ed22c2"/>
+    <rdfs:label>AT0</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/b3fbe9db-6c49-4c9e-8043-9e2d4634f685">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <dcterms:source rdf:resource="http://example.org/8c5ab775-1b04-408d-b384-7b9257bcd190"/>
+    <ns:ann_finest_level>Non-classical monocytes</ns:ann_finest_level>
+    <ns:ann_level_4>Non-classical monocytes</ns:ann_level_4>
+    <ns:cell_type>non-classical monocyte</ns:cell_type>
+    <obo:RO_0015003 rdf:resource="http://example.org/5b184c46-c2e4-4ed7-bf25-16d7270ff289"/>
+    <rdfs:label>Non-classical monocytes</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/bc5aead0-afdc-446f-ae08-5ac675dd72ae">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <dcterms:source rdf:resource="http://example.org/8c5ab775-1b04-408d-b384-7b9257bcd190"/>
+    <ns:ann_finest_level>Suprabasal</ns:ann_finest_level>
+    <ns:ann_level_4>Suprabasal</ns:ann_level_4>
+    <obo:RO_0015003 rdf:resource="http://example.org/32bfbc57-90a3-4507-9713-dec996e6e8c5"/>
+    <rdfs:label>Suprabasal</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/5477d086-9505-47f0-b5cf-ccc292cae9a0">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <dcterms:source rdf:resource="http://example.org/8c5ab775-1b04-408d-b384-7b9257bcd190"/>
+    <ns:ann_level_3>Fibroblasts</ns:ann_level_3>
+    <obo:RO_0015003 rdf:resource="http://example.org/013940fd-3732-4218-9f19-f0371716d54a"/>
+    <rdfs:label>Fibroblasts</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/3c8ee9ba-48b9-4717-9f4b-f27559864dc4">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <dcterms:source rdf:resource="http://example.org/8c5ab775-1b04-408d-b384-7b9257bcd190"/>
+    <ns:ann_finest_level>Mesothelium</ns:ann_finest_level>
+    <ns:ann_level_2>Mesothelium</ns:ann_level_2>
+    <ns:cell_type>mesothelial cell</ns:cell_type>
+    <obo:RO_0015003 rdf:resource="http://example.org/31017b46-bdaa-4bb2-a017-a372d4980cb0"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/2a27e53d-c912-43d8-9154-229dbdea49a7"/>
+    <rdfs:label>Mesothelium</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/dc/terms/source">
+    <rdfs:label>has_source</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/RO_0002473">
+    <rdfs:label>composed primarily of</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/376ef4e9-78b5-4148-9df2-ce007f6663ec">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <dcterms:source rdf:resource="http://example.org/8c5ab775-1b04-408d-b384-7b9257bcd190"/>
+    <ns:ann_finest_level>EC venous pulmonary</ns:ann_finest_level>
+    <ns:ann_level_4>EC venous pulmonary</ns:ann_level_4>
+    <obo:RO_0015003 rdf:resource="http://example.org/5e7e675d-0bc3-417d-85d5-a7964773bf22"/>
+    <rdfs:label>EC venous pulmonary</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/b57ae972-532a-45e7-8cc8-a8d266136b0d">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <dcterms:source rdf:resource="http://example.org/8c5ab775-1b04-408d-b384-7b9257bcd190"/>
+    <ns:ann_finest_level>Tuft</ns:ann_finest_level>
+    <ns:ann_level_4>Tuft</ns:ann_level_4>
+    <ns:cell_type>brush cell of trachebronchial tree</ns:cell_type>
+    <obo:RO_0015003 rdf:resource="http://example.org/6b651fd9-82b2-4013-999f-d6a1d03d3872"/>
+    <rdfs:label>Tuft</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/6b651fd9-82b2-4013-999f-d6a1d03d3872">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <dcterms:source rdf:resource="http://example.org/8c5ab775-1b04-408d-b384-7b9257bcd190"/>
+    <ns:ann_level_3>Rare</ns:ann_level_3>
+    <obo:RO_0015003 rdf:resource="http://example.org/84ef9981-d97d-458d-ab2f-8600a7f77d83"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/c1bdd39b-b756-40f1-8123-8c86cb6a8655"/>
+    <rdfs:label>Rare</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ed3a8911-0373-4a84-864f-15c72576d174">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <dcterms:source rdf:resource="http://example.org/8c5ab775-1b04-408d-b384-7b9257bcd190"/>
+    <ns:ann_finest_level>Alveolar Mph proliferating</ns:ann_finest_level>
+    <ns:ann_level_5>Alveolar Mph proliferating</ns:ann_level_5>
+    <obo:RO_0015003 rdf:resource="http://example.org/192a6675-a652-448b-87d3-3f87c7e5d1aa"/>
+    <rdfs:label>Alveolar Mph proliferating</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/421e8429-e69f-4e14-bf3d-65a56f3b3e32">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <dcterms:source rdf:resource="http://example.org/8c5ab775-1b04-408d-b384-7b9257bcd190"/>
+    <ns:ann_finest_level>Alveolar macrophages</ns:ann_finest_level>
+    <obo:RO_0015003 rdf:resource="http://example.org/192a6675-a652-448b-87d3-3f87c7e5d1aa"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/c1bdd39b-b756-40f1-8123-8c86cb6a8655"/>
+    <rdfs:label>Alveolar macrophages</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/3e788ed7-5bda-4aa6-b0d5-a64c16c5e0a9">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <dcterms:source rdf:resource="http://example.org/8c5ab775-1b04-408d-b384-7b9257bcd190"/>
+    <ns:ann_level_3>Dendritic cells</ns:ann_level_3>
+    <obo:RO_0015003 rdf:resource="http://example.org/33f75137-1576-4fea-8e14-4078bc1aa205"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/c1bdd39b-b756-40f1-8123-8c86cb6a8655"/>
+    <rdfs:label>Dendritic cells</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/3db7778e-620a-4220-999e-a16df3b1ef3b">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <dcterms:source rdf:resource="http://example.org/8c5ab775-1b04-408d-b384-7b9257bcd190"/>
+    <ns:ann_finest_level>Myofibroblasts</ns:ann_finest_level>
+    <ns:ann_level_3>Myofibroblasts</ns:ann_level_3>
+    <ns:cell_type>myofibroblast cell</ns:cell_type>
+    <obo:RO_0015003 rdf:resource="http://example.org/013940fd-3732-4218-9f19-f0371716d54a"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/a5a1d5ea-e8d8-45c7-8c40-b3a8f6fd65b3"/>
+    <rdfs:label>Myofibroblasts</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/7800eb8a-1308-4b28-9866-36d22b32180c">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <dcterms:source rdf:resource="http://example.org/8c5ab775-1b04-408d-b384-7b9257bcd190"/>
+    <ns:ann_finest_level>Basal resting</ns:ann_finest_level>
+    <ns:ann_level_4>Basal resting</ns:ann_level_4>
+    <obo:RO_0015003 rdf:resource="http://example.org/32bfbc57-90a3-4507-9713-dec996e6e8c5"/>
+    <rdfs:label>Basal resting</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/54b502f1-b531-4d1e-8d97-4052f962bd40">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <dcterms:source rdf:resource="http://example.org/8c5ab775-1b04-408d-b384-7b9257bcd190"/>
+    <ns:ann_finest_level>Pericytes</ns:ann_finest_level>
+    <ns:ann_level_4>Pericytes</ns:ann_level_4>
+    <ns:cell_type>lung pericyte</ns:cell_type>
+    <obo:RO_0015003 rdf:resource="http://example.org/5477d086-9505-47f0-b5cf-ccc292cae9a0"/>
+    <rdfs:label>Pericytes</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/5d5365eb-f5b6-441a-80d0-8cb862162f7e">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <dcterms:source rdf:resource="http://example.org/8c5ab775-1b04-408d-b384-7b9257bcd190"/>
+    <ns:ann_finest_level>Multiciliated (non-nasal)</ns:ann_finest_level>
+    <ns:ann_level_5>Multiciliated (non-nasal)</ns:ann_level_5>
+    <ns:cell_type>ciliated columnar cell of tracheobronchial tree</ns:cell_type>
+    <obo:RO_0015003 rdf:resource="http://example.org/542941fd-fd3c-473a-b246-a9e05614224e"/>
+    <rdfs:label>Multiciliated (non-nasal)</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/7893c9e1-081a-4462-8741-0db99d35459b">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <dcterms:source rdf:resource="http://example.org/8c5ab775-1b04-408d-b384-7b9257bcd190"/>
+    <ns:ann_level_3>Multiciliated lineage</ns:ann_level_3>
+    <obo:RO_0015003 rdf:resource="http://example.org/84ef9981-d97d-458d-ab2f-8600a7f77d83"/>
+    <rdfs:label>Multiciliated lineage</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/0fa32166-4e58-4a31-b953-59a5e7d7a9a5">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <dcterms:source rdf:resource="http://example.org/8c5ab775-1b04-408d-b384-7b9257bcd190"/>
+    <ns:ann_level_2>Submucosal Gland</ns:ann_level_2>
+    <ns:ann_level_3>Submucosal Secretory</ns:ann_level_3>
+    <obo:RO_0015003 rdf:resource="http://example.org/4db76ae6-32a1-410f-8978-cabc18012135"/>
+    <rdfs:label>Submucosal Gland</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/93d93ef5-ac32-460d-9749-e8cfac15f140">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <dcterms:source rdf:resource="http://example.org/8c5ab775-1b04-408d-b384-7b9257bcd190"/>
+    <ns:ann_finest_level>Smooth muscle</ns:ann_finest_level>
+    <ns:cell_type>tracheobronchial smooth muscle cell</ns:cell_type>
+    <obo:RO_0015003 rdf:resource="http://example.org/ce25feed-1788-4a0b-ad35-c1ad7690bf9a"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/2a27e53d-c912-43d8-9154-229dbdea49a7"/>
+    <rdfs:label>Smooth muscle</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/bff801b2-ba24-4720-988e-8056ad7937ed">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <dcterms:source rdf:resource="http://example.org/8c5ab775-1b04-408d-b384-7b9257bcd190"/>
+    <ns:ann_finest_level>Goblet (bronchial)</ns:ann_finest_level>
+    <ns:ann_level_5>Goblet (bronchial)</ns:ann_level_5>
+    <ns:cell_type>bronchial goblet cell</ns:cell_type>
+    <obo:RO_0015003 rdf:resource="http://example.org/959837a4-dd0a-4ed2-9c52-6673311c6836"/>
+    <rdfs:label>Goblet (bronchial)</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ce25feed-1788-4a0b-ad35-c1ad7690bf9a">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <dcterms:source rdf:resource="http://example.org/8c5ab775-1b04-408d-b384-7b9257bcd190"/>
+    <ns:ann_level_2>Smooth muscle</ns:ann_level_2>
+    <obo:RO_0015003 rdf:resource="http://example.org/31017b46-bdaa-4bb2-a017-a372d4980cb0"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/a5a1d5ea-e8d8-45c7-8c40-b3a8f6fd65b3"/>
+    <rdfs:label>Smooth muscle</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/1453fb72-ff2b-466c-ac5a-1c0cdc47fe94">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <dcterms:source rdf:resource="http://example.org/8c5ab775-1b04-408d-b384-7b9257bcd190"/>
+    <ns:ann_finest_level>CD4 T cells</ns:ann_finest_level>
+    <ns:ann_level_4>CD4 T cells</ns:ann_level_4>
+    <ns:cell_type>CD4-positive, alpha-beta T cell</ns:cell_type>
+    <obo:RO_0015003 rdf:resource="http://example.org/126dc07c-f1fd-4d9a-b0f7-73e9a857e9ad"/>
+    <rdfs:label>CD4 T cells</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/5e6e16e2-05a9-4fb0-a202-156340ddc48a">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <dcterms:source rdf:resource="http://example.org/8c5ab775-1b04-408d-b384-7b9257bcd190"/>
+    <ns:ann_finest_level>T cells proliferating</ns:ann_finest_level>
+    <ns:ann_level_4>T cells proliferating</ns:ann_level_4>
+    <ns:cell_type>T cell</ns:cell_type>
+    <obo:RO_0015003 rdf:resource="http://example.org/126dc07c-f1fd-4d9a-b0f7-73e9a857e9ad"/>
+    <rdfs:label>T cells proliferating</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/126dc07c-f1fd-4d9a-b0f7-73e9a857e9ad">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <dcterms:source rdf:resource="http://example.org/8c5ab775-1b04-408d-b384-7b9257bcd190"/>
+    <ns:ann_level_3>T cell lineage</ns:ann_level_3>
+    <obo:RO_0015003 rdf:resource="http://example.org/36f5222e-b2c1-48b4-9092-ba7ec0104681"/>
+    <rdfs:label>T cell lineage</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/37904333-ff34-40bd-ae5f-90189bbe4dfe">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <dcterms:source rdf:resource="http://example.org/8c5ab775-1b04-408d-b384-7b9257bcd190"/>
+    <ns:ann_level_2>Lymphatic EC</ns:ann_level_2>
+    <ns:cell_type>endothelial cell of lymphatic vessel</ns:cell_type>
+    <obo:RO_0015003 rdf:resource="http://example.org/ae9eb1f3-6c37-4a0c-94c5-619f09d18f13"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/a5a1d5ea-e8d8-45c7-8c40-b3a8f6fd65b3"/>
+    <rdfs:label>Lymphatic EC</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/466e47a8-dc5c-4764-ac3b-dbb329d9144d">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <dcterms:source rdf:resource="http://example.org/8c5ab775-1b04-408d-b384-7b9257bcd190"/>
+    <ns:ann_finest_level>Plasmacytoid DCs</ns:ann_finest_level>
+    <ns:ann_level_4>Plasmacytoid DCs</ns:ann_level_4>
+    <ns:cell_type>plasmacytoid dendritic cell</ns:cell_type>
+    <obo:RO_0015003 rdf:resource="http://example.org/3e788ed7-5bda-4aa6-b0d5-a64c16c5e0a9"/>
+    <rdfs:label>Plasmacytoid DCs</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/c1bdd39b-b756-40f1-8123-8c86cb6a8655">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <dcterms:source rdf:resource="http://example.org/8c5ab775-1b04-408d-b384-7b9257bcd190"/>
+    <ns:ann_level_5>None</ns:ann_level_5>
+    <rdfs:label>None</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/7504e304-1578-4e17-8ae4-2cf2eebcc139">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <dcterms:source rdf:resource="http://example.org/8c5ab775-1b04-408d-b384-7b9257bcd190"/>
+    <ns:ann_finest_level>DC2</ns:ann_finest_level>
+    <ns:ann_level_4>DC2</ns:ann_level_4>
+    <ns:cell_type>CD1c-positive myeloid dendritic cell</ns:cell_type>
+    <obo:RO_0015003 rdf:resource="http://example.org/3e788ed7-5bda-4aa6-b0d5-a64c16c5e0a9"/>
+    <rdfs:label>DC2</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/ec567f46-76a0-4789-8042-d5565ae0ac1a">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <dcterms:source rdf:resource="http://example.org/8c5ab775-1b04-408d-b384-7b9257bcd190"/>
+    <ns:ann_level_2>Blood vessels</ns:ann_level_2>
+    <obo:RO_0015003 rdf:resource="http://example.org/ae9eb1f3-6c37-4a0c-94c5-619f09d18f13"/>
+    <rdfs:label>Blood vessels</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/a5a1d5ea-e8d8-45c7-8c40-b3a8f6fd65b3">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <dcterms:source rdf:resource="http://example.org/8c5ab775-1b04-408d-b384-7b9257bcd190"/>
+    <ns:ann_level_4>None</ns:ann_level_4>
+    <obo:RO_0015003 rdf:resource="http://example.org/c1bdd39b-b756-40f1-8123-8c86cb6a8655"/>
+    <rdfs:label>None</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/f45dc326-db71-4493-b96b-49c7dae4b3fe">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <dcterms:source rdf:resource="http://example.org/8c5ab775-1b04-408d-b384-7b9257bcd190"/>
+    <ns:ann_level_3>EC capillary</ns:ann_level_3>
+    <ns:cell_type>capillary endothelial cell</ns:cell_type>
+    <obo:RO_0015003 rdf:resource="http://example.org/ec567f46-76a0-4789-8042-d5565ae0ac1a"/>
+    <rdfs:label>EC capillary</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/f903ad95-5038-469e-891f-9cff26216127">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <dcterms:source rdf:resource="http://example.org/8c5ab775-1b04-408d-b384-7b9257bcd190"/>
+    <ns:ann_level_3>Basal</ns:ann_level_3>
+    <obo:RO_0015003 rdf:resource="http://example.org/84ef9981-d97d-458d-ab2f-8600a7f77d83"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/c1bdd39b-b756-40f1-8123-8c86cb6a8655"/>
+    <rdfs:label>Basal</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/013940fd-3732-4218-9f19-f0371716d54a">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <dcterms:source rdf:resource="http://example.org/8c5ab775-1b04-408d-b384-7b9257bcd190"/>
+    <ns:ann_level_2>Fibroblast lineage</ns:ann_level_2>
+    <obo:RO_0015003 rdf:resource="http://example.org/31017b46-bdaa-4bb2-a017-a372d4980cb0"/>
+    <rdfs:label>Fibroblast lineage</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/24594c34-a596-43d8-9cfc-1fdd2f965159">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <dcterms:source rdf:resource="http://example.org/8c5ab775-1b04-408d-b384-7b9257bcd190"/>
+    <ns:ann_finest_level>Alveolar Mph MT-positive</ns:ann_finest_level>
+    <ns:ann_level_5>Alveolar Mph MT-positive</ns:ann_level_5>
+    <obo:RO_0015003 rdf:resource="http://example.org/192a6675-a652-448b-87d3-3f87c7e5d1aa"/>
+    <rdfs:label>Alveolar Mph MT-positive</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/5e7e675d-0bc3-417d-85d5-a7964773bf22">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <dcterms:source rdf:resource="http://example.org/8c5ab775-1b04-408d-b384-7b9257bcd190"/>
+    <ns:ann_level_3>EC venous</ns:ann_level_3>
+    <ns:cell_type>vein endothelial cell</ns:cell_type>
+    <obo:RO_0015003 rdf:resource="http://example.org/ec567f46-76a0-4789-8042-d5565ae0ac1a"/>
+    <rdfs:label>EC venous</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/5ee6c96e-0f07-41f4-95ea-5ccb1d5384a6">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <dcterms:source rdf:resource="http://example.org/8c5ab775-1b04-408d-b384-7b9257bcd190"/>
+    <ns:ann_finest_level>Smooth muscle FAM83D+</ns:ann_finest_level>
+    <ns:ann_level_3>Smooth muscle FAM83D+</ns:ann_level_3>
+    <ns:cell_type>stromal cell</ns:cell_type>
+    <obo:RO_0015003 rdf:resource="http://example.org/ce25feed-1788-4a0b-ad35-c1ad7690bf9a"/>
+    <rdfs:label>Smooth muscle FAM83D+</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/d54c361f-b788-4252-b4eb-c50eacbca8a8">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <dcterms:source rdf:resource="http://example.org/8c5ab775-1b04-408d-b384-7b9257bcd190"/>
+    <ns:ann_finest_level>EC venous systemic</ns:ann_finest_level>
+    <ns:ann_level_4>EC venous systemic</ns:ann_level_4>
+    <obo:RO_0015003 rdf:resource="http://example.org/5e7e675d-0bc3-417d-85d5-a7964773bf22"/>
+    <rdfs:label>EC venous systemic</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/36f5222e-b2c1-48b4-9092-ba7ec0104681">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <dcterms:source rdf:resource="http://example.org/8c5ab775-1b04-408d-b384-7b9257bcd190"/>
+    <ns:ann_level_2>Lymphoid</ns:ann_level_2>
+    <obo:RO_0015003 rdf:resource="http://example.org/309e4046-5a29-41a5-aaa6-7cee7dc51dc5"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/c1bdd39b-b756-40f1-8123-8c86cb6a8655"/>
+    <rdfs:label>Lymphoid</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/34d888e7-afa6-4dcb-ad8e-97fbfc4195fc">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <dcterms:source rdf:resource="http://example.org/8c5ab775-1b04-408d-b384-7b9257bcd190"/>
+    <ns:ann_level_2>Alveolar epithelium</ns:ann_level_2>
+    <obo:RO_0015003 rdf:resource="http://example.org/4db76ae6-32a1-410f-8978-cabc18012135"/>
+    <obo:RO_0015003 rdf:resource="http://example.org/c1bdd39b-b756-40f1-8123-8c86cb6a8655"/>
+    <rdfs:label>Alveolar epithelium</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/d6af1fbb-a1ab-4574-84c2-f11ea16c27b5">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <dcterms:source rdf:resource="http://example.org/8c5ab775-1b04-408d-b384-7b9257bcd190"/>
+    <ns:ann_finest_level>Club (non-nasal)</ns:ann_finest_level>
+    <ns:ann_level_5>Club (non-nasal)</ns:ann_level_5>
+    <obo:RO_0015003 rdf:resource="http://example.org/b0da9381-fbf9-44a6-ac4b-3e7aaa88aa6b"/>
+    <rdfs:label>Club (non-nasal)</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/4dec3120-1088-4bab-8203-7bf46cb76ec7">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <dcterms:source rdf:resource="http://example.org/8c5ab775-1b04-408d-b384-7b9257bcd190"/>
+    <ns:ann_finest_level>Club (nasal)</ns:ann_finest_level>
+    <ns:ann_level_5>Club (nasal)</ns:ann_level_5>
+    <obo:RO_0015003 rdf:resource="http://example.org/b0da9381-fbf9-44a6-ac4b-3e7aaa88aa6b"/>
+    <rdfs:label>Club (nasal)</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/09aadccb-9f38-4249-a53e-940e3205ae9a">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <dcterms:source rdf:resource="http://example.org/8c5ab775-1b04-408d-b384-7b9257bcd190"/>
+    <ns:ann_finest_level>Goblet (subsegmental)</ns:ann_finest_level>
+    <ns:ann_level_5>Goblet (subsegmental)</ns:ann_level_5>
+    <ns:cell_type>tracheobronchial goblet cell</ns:cell_type>
+    <obo:RO_0015003 rdf:resource="http://example.org/959837a4-dd0a-4ed2-9c52-6673311c6836"/>
+    <rdfs:label>Goblet (subsegmental)</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/a1298963-5b71-464f-b325-fb2268cd7ee0">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <dcterms:source rdf:resource="http://example.org/8c5ab775-1b04-408d-b384-7b9257bcd190"/>
+    <ns:ann_finest_level>Hillock-like</ns:ann_finest_level>
+    <ns:ann_level_4>Hillock-like</ns:ann_level_4>
+    <ns:cell_type>respiratory hillock cell</ns:cell_type>
+    <obo:RO_0015003 rdf:resource="http://example.org/f903ad95-5038-469e-891f-9cff26216127"/>
+    <rdfs:label>Hillock-like</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/31017b46-bdaa-4bb2-a017-a372d4980cb0">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <dcterms:source rdf:resource="http://example.org/8c5ab775-1b04-408d-b384-7b9257bcd190"/>
+    <ns:ann_level_1>Stroma</ns:ann_level_1>
+    <obo:RO_0015003 rdf:resource="http://example.org/c1bdd39b-b756-40f1-8123-8c86cb6a8655"/>
+    <rdfs:label>Stroma</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/959837a4-dd0a-4ed2-9c52-6673311c6836">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <dcterms:source rdf:resource="http://example.org/8c5ab775-1b04-408d-b384-7b9257bcd190"/>
+    <ns:ann_level_4>Goblet</ns:ann_level_4>
+    <obo:RO_0015003 rdf:resource="http://example.org/25f53875-1aaa-4dd1-96ea-7042a41024bb"/>
+    <rdfs:label>Goblet</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/PCL_0010001">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:label>cell cluster</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/25f53875-1aaa-4dd1-96ea-7042a41024bb">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <dcterms:source rdf:resource="http://example.org/8c5ab775-1b04-408d-b384-7b9257bcd190"/>
+    <ns:ann_level_3>Secretory</ns:ann_level_3>
+    <obo:RO_0015003 rdf:resource="http://example.org/84ef9981-d97d-458d-ab2f-8600a7f77d83"/>
+    <rdfs:label>Secretory</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/309e4046-5a29-41a5-aaa6-7cee7dc51dc5">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <dcterms:source rdf:resource="http://example.org/8c5ab775-1b04-408d-b384-7b9257bcd190"/>
+    <ns:ann_level_1>Immune</ns:ann_level_1>
+    <rdfs:label>Immune</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/5afbbfb0-91f9-4942-a709-da49a4ed22c2">
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <dcterms:source rdf:resource="http://example.org/8c5ab775-1b04-408d-b384-7b9257bcd190"/>
+    <ns:ann_level_4>Transitional Club-AT2</ns:ann_level_4>
+    <obo:RO_0015003 rdf:resource="http://example.org/25f53875-1aaa-4dd1-96ea-7042a41024bb"/>
+    <rdfs:label>Transitional Club-AT2</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/RO_0015003">
+    <rdfs:label>subcluster of</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+  </rdf:Description>
+</rdf:RDF>
